@@ -1,5 +1,5 @@
 Video prezentujące projekt:
-https://youtu.be/mbXdrr-4vG0
+https://youtu.be/yuVbXejir3g
 
 Skrót: 
 Aplikacja do dodawania przesłuchanych albumów do kolekcji. Korzysta z zewnętrznego api spotify aby ściągać z niego informacje o wydawnictwach i wykonawcach. 
