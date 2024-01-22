@@ -1,1 +1,10 @@
 Video prezentujące projekt:
+https://youtu.be/__kRXkZDtss
+
+Skrót: 
+Aplikacja do dodawania przesłuchanych albumów do kolekcji. Korzysta z zewnętrznego api spotify aby ściągać z niego informacje o wydawnictwach i wykonawcach. 
+
+Aplikacja frontendowa: js + tailwindcss 
+Rest api: Spring Boot
+Baza danych: MYSQL na dockerze
+
