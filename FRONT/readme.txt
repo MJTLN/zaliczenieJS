@@ -1,0 +1,2 @@
+Ta aplikacja pozwala oceniać i katalogować przesłuchaną muzykę. Dane o artystach i albumach muzycznych pobiera ze Spotify Web API.
+Na frontendzie korzysta z tailwindcss, na backendzie ze spring boot oraz sql

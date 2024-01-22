@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.muzio{
+    padding: 0.8em;
+}
+
+.album-sw{
+    padding-bottom: 1em;
+}
